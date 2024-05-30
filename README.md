@@ -1,8 +1,7 @@
 # FastAPI avec BigQuery
 
-This project is a FastAPI application that connects to Google BigQuery.
 Ce projet est la suite de mon application de scraping qui scrappe les données sur le site afrik.com et stock ses données dans BigQuery.
-Cette fois-ci nous avons développé une API avec FastAPI qui retourne ses données selon l'URI renseigné.
+Cette fois-ci nous avons développé une API avec FastAPI qui retourne ses données.
 
 
 
@@ -19,7 +18,7 @@ Cette fois-ci nous avons développé une API avec FastAPI qui retourne ses donn�
 
 - Développement de l'api avec FastAPI avec Python
 - Constuction de l'image du projet avec Docker
-- Stockage, Deploiement et plannification du conteneur sur GCP(Artifact Registry, Cloud Run Services et Cloud Scheduler)
+- Stockage, Deploiement sur GCP(Artifact Registry, Cloud Run Services)
 
 
 ## Déploiement sur GCP
