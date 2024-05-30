@@ -63,4 +63,4 @@ Vous devriez voir s'affichez les données dispo sur BigQuery
 
 
 ## Captures
-![Donnée retournées](captures/json.png)
+![Donnée retournées](captures/result.png)
